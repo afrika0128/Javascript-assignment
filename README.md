@@ -3,7 +3,7 @@
 Submission for the JavaScript Core Concepts module.
 
 ## Student Deliverables
-- **GitHub Repository:** [Paste your GitHub repo link here]
+- **GitHub Repository:** https://github.com/afrika0128/Javascript-assignment
 
 ## Questions Solved
 1. **Control Flow:** Grade calculator using `switch(true)` and pass/fail ternary check.
